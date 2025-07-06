@@ -1,6 +1,6 @@
 # AI-agent
-# everything from vibe ooding to AI/ML agent
+# Everything from vibe ooding to AI/ML agent
 
-• Zapier  https://actions.zapier.com \
-• Hugging face MCP  https://huggingface.co/learn/mcp-course/unit0/introduction
+• Zapier  https://actions.zapier.com 
+\• Hugging face MCP  https://huggingface.co/learn/mcp-course/unit0/introduction
 
